@@ -22,8 +22,25 @@
 }
 
 .trending {
-    height: 100vh;
+    height: auto;
     background: url("../assets/images/bg/scfi.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Images {
+    height: 500px;}
+
+.superhero {
+    height: auto;
+    background: url("../assets/images/bg/car.jpg");
     background-size: cover;
     background-position: center;
 }
